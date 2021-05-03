@@ -48,4 +48,8 @@ Anbefalt av: @Kazukidevnull
 
 - - - 
 
+## Intelligence Analysis
+
+### Critical Thinking for Strategic Intelligence - Katherine Hibbs Pherson, Randolph H. Pherson [Amazon](https://www.amazon.com/Critical-Thinking-Strategic-Intelligence-Katherine/dp/1452226679) / [AdLibris](https://www.adlibris.com/no/bok/critical-thinking-for-strategic-intelligence-9781544374260?gclid=Cj0KCQjwvr6EBhDOARIsAPpqUPGrJ_Tz-gARXR18eJhcrpk4AUwxFwHROV_b_zm-4au8-fG0sKKhPH8aAriAEALw_wcB)
+
 
