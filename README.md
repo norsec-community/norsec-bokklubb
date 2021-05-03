@@ -38,4 +38,13 @@ Anbefalt av: @GigaByteRex
 
 - - - 
 
+### Hardware/Electronics
+
+#### The Hardware Hacker: Adventures in Making and Breaking Hardware - Andrew Bunnie Huang - [Amazon US](https://www.amazon.com/Hardware-Hacker-Adventures-Making-Breaking-dp-1593279787/dp/1593279787)
+
+Tittelen sier alt, og anbefaler på det sterkeste vist du er interessert i elektronikk eller generelt nysgjerrig på hvordan ting går fra deler til et ferdig produkt.
+
+Anbefalt av: @Kazukidevnull
+- - - 
+
 
