@@ -25,6 +25,11 @@ Anbefalt av: @turbulenzjager
 
 ### Sikkerhetstesting - Pentesting
 
+#### The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws, 2nd Edition - Dafydd Stuttard - [Adlibris](https://www.adlibris.com/no/bok/the-web-application-hackers-handbook-9781118026472) / [Amazon US](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
+
+Går gjennom punkt for punkt noen av de viktigste elementene av web app hacking, og fungerer fantastisk som både introduksjon og oppslagsverk for fagveltet.
+
+Anbefalt av: @GigaByteRex
 
 - - - 
 
