@@ -46,8 +46,13 @@ Anbefalt av: @furdy / @nech
 ### Intelligence Analysis
 
 #### :books: Critical Thinking for Strategic Intelligence - Katherine Hibbs Pherson, Randolph H. Pherson [Amazon US](https://www.amazon.com/Critical-Thinking-Strategic-Intelligence-Katherine/dp/1452226679) / [AdLibris](https://www.adlibris.com/no/bok/critical-thinking-for-strategic-intelligence-9781544374260?gclid=Cj0KCQjwvr6EBhDOARIsAPpqUPGrJ_Tz-gARXR18eJhcrpk4AUwxFwHROV_b_zm-4au8-fG0sKKhPH8aAriAEALw_wcB)
-
 Anbefalt av: @furdy
+
+
+### Practical Cyber Intelligence - Wilson Bautista [Amazon](https://www.amazon.com/Practical-Cyber-Intelligence-action-based-intelligence-dp-1788625560/dp/1788625560/) / [AdLibris](https://www.adlibris.com/no/bok/practical-cyber-intelligence-9781788625562)
+Sjeldent har jeg skreket høyt ut i luften og revet meg i håert så mye som med denne boken. Den er skrevet av en person fra forsvarssektoren i USA som har brukt alt han kan fra forsvaret og forsøkt å legge cyber som et element oppå det igjen. Det blir en sabla rar miks av modeller, erfaringer og koblinger inn i cybersikkerhet som bare bommer totalt med virkeligheten og hvordan resten av oss ser på fagfeltet. My few cents :)
+
+"Anbefalt" av: @Furdy
 
 
 - - -
