@@ -7,15 +7,17 @@ Alle kan legge til forslag, vi ønsker at forslagene merkes med hvem som står b
 
 ## Eksempler:
 
-``` #### :books: Bok navn - Forfatter - Lenke til butikk / Sekundær lenke til butikk
- Kort sammendrag om boken 
- Anbefalt av: nick på discord 
- ```
+```
+#### :books: Bok navn - Forfatter - Lenke til butikk / Sekundær lenke til butikk
+Kort sammendrag om boken 
+Anbefalt av: nick på discord 
+```
 
-``` #### :bookmark: Navn på artikkel - Forfatter - Lenke
+``` 
+#### :bookmark: Navn på artikkel - Forfatter - Lenke
 Kort sammendrag om artikkelen
 Anbefalt av: nick på discord 
- ```
+```
 
 
 
