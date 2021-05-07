@@ -5,12 +5,18 @@ Alle kan legge til forslag, vi ønsker at forslagene merkes med hvem som står b
 
 
 
-**Eksempel:**
+## Eksempler:
 
-#### Intelligence-Driven Incident Response - Scott Roberts - [Adlibris](https://www.adlibris.com/no/bok/intelligence-driven-incident-response-9781491934944) / [Amazon US](https://www.amazon.com/dp/1491934948/ref=cm_sw_em_r_mt_dp_Q6FW5WB6FWMM7G5CGR6S)     
-Anbefalt av: @furdy / @nech
+> #### :books: Bok navn - Forfatter - Lenke til butikk / Sekundær lenke til butikk     
+> Anbefalt av: nick på discord
 
-**Forklaringer:**
+> #### :bookmark: Navn på artikkel - Forfatter - Lenke     
+> Anbefalt av: nick på discord
+
+
+[Tittel 4 / 4"#"] [Lenke til artikkel]
+
+## Forklaringer:
 
 📚 : Bøker  
 🔖 : Lenke til artikler eller PDF  
@@ -54,7 +60,7 @@ Anbefalt av: @furdy / @nech
 Anbefalt av: @furdy
 
 
-### 📚 👎 Practical Cyber Intelligence - Wilson Bautista [Amazon](https://www.amazon.com/Practical-Cyber-Intelligence-action-based-intelligence-dp-1788625560/dp/1788625560/) / [AdLibris](https://www.adlibris.com/no/bok/practical-cyber-intelligence-9781788625562)
+#### 📚 👎 Practical Cyber Intelligence - Wilson Bautista [Amazon](https://www.amazon.com/Practical-Cyber-Intelligence-action-based-intelligence-dp-1788625560/dp/1788625560/) / [AdLibris](https://www.adlibris.com/no/bok/practical-cyber-intelligence-9781788625562)
 *Sjeldent har jeg skreket høyt ut i luften og revet meg i håret så mye som med denne boken. Den er skrevet av en person fra forsvarssektoren i USA som har brukt alt han kan fra forsvaret og forsøkt å legge cyber som et element oppå det igjen. Det blir en sabla rar miks av modeller, erfaringer og koblinger inn i cybersikkerhet som bare bommer totalt med virkeligheten og hvordan resten av oss ser på fagfeltet. My few cents :)*
 
 "Anbefalt" av: @Furdy
