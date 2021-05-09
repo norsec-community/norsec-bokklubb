@@ -73,7 +73,7 @@ Anbefalt av: @furdy
 "Anbefalt" av: @Furdy
 
 
-### The Cyber Intelligence Handbook: An Authoritative Guide for the C-Suite, IT Staff, and Intelligence team - David Cooney [Amazon](https://www.amazon.com/Cyber-Intelligence-Handbook-Authoritative-C-Suite/dp/1082404381) / (AdLibris)[https://www.adlibris.com/no/bok/the-cyber-intelligence-handbook-an-authoritative-guide-for-the-c-suite-it-staff-and-intelligence-team-9781082404382]
+### :books: The Cyber Intelligence Handbook: An Authoritative Guide for the C-Suite, IT Staff, and Intelligence team - David Cooney [Amazon](https://www.amazon.com/Cyber-Intelligence-Handbook-Authoritative-C-Suite/dp/1082404381) / (AdLibris)[https://www.adlibris.com/no/bok/the-cyber-intelligence-handbook-an-authoritative-guide-for-the-c-suite-it-staff-and-intelligence-team-9781082404382]
 *Dette er en av de bedre bøkene som omhandler hvordan strategisk analyse kan operasjonaliseres ned til taktisk og strategisk nivå, samt hvordan man kan jobbe for å få bedre forståelse for etterretningsanalyse, hvordan man får aksept for dette i en organisasjon, hvordan det kan settes opp, modnes og skape verdi.*
 
 Anbefalt av: @furdy
