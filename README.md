@@ -63,6 +63,7 @@ Anbefalt av: @furdy / @nech
 ### Intelligence Analysis
 
 #### :books: Critical Thinking for Strategic Intelligence - Katherine Hibbs Pherson, Randolph H. Pherson [Amazon US](https://www.amazon.com/Critical-Thinking-Strategic-Intelligence-Katherine/dp/1452226679) / [AdLibris](https://www.adlibris.com/no/bok/critical-thinking-for-strategic-intelligence-9781544374260?gclid=Cj0KCQjwvr6EBhDOARIsAPpqUPGrJ_Tz-gARXR18eJhcrpk4AUwxFwHROV_b_zm-4au8-fG0sKKhPH8aAriAEALw_wcB)
+
 Anbefalt av: @furdy
 
 
@@ -71,6 +72,11 @@ Anbefalt av: @furdy
 
 "Anbefalt" av: @Furdy
 
+
+### The Cyber Intelligence Handbook: An Authoritative Guide for the C-Suite, IT Staff, and Intelligence team - David Cooney [Amazon](https://www.amazon.com/Cyber-Intelligence-Handbook-Authoritative-C-Suite/dp/1082404381) / (AdLibris)[https://www.adlibris.com/no/bok/the-cyber-intelligence-handbook-an-authoritative-guide-for-the-c-suite-it-staff-and-intelligence-team-9781082404382]
+*Dette er en av de bedre bøkene som omhandler hvordan strategisk analyse kan operasjonaliseres ned til taktisk og strategisk nivå, samt hvordan man kan jobbe for å få bedre forståelse for etterretningsanalyse, hvordan man får aksept for dette i en organisasjon, hvordan det kan settes opp, modnes og skape verdi.*
+
+Anbefalt av: @furdy
 
 - - -
 
