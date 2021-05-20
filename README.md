@@ -54,7 +54,14 @@ Anbefalt av: @GigaByteRex
 
 ## Incident Response
 
-### :books: Intelligence-Driven Incident Response - Scott Roberts - [Adlibris](https://www.adlibris.com/no/bok/intelligence-driven-incident-response-9781491934944) / [Amazon US](https://www.amazon.com/dp/1491934948/ref=cm_sw_em_r_mt_dp_Q6FW5WB6FWMM7G5CGR6S)     
+### :books: The Cuckoo's Egg: Tracking a Spy Through the Maze of Computer Espionage - Cliff Stoll - [Adlibris](https://www.adlibris.com/no/bok/the-cuckoos-egg-tracking-a-spy-through-the-maze-of-computer-espionage-9781416507789)    
+
+*Skal du jobbe med hendelseshåndtering burde du lese denne boken. Cliff Stoll, en astronom, forteller historien hvordan han kom over hackeren «Hunter» en dag i 1986. Og hvordan dette utviklet seg til en spionjakt.*   
+
+Anbefalt av: @nech  
+
+### :books: Intelligence-Driven Incident Response - Scott Roberts - [Adlibris](https://www.adlibris.com/no/bok/intelligence-driven-incident-response-9781491934944) / [Amazon US](https://www.amazon.com/dp/1491934948/ref=cm_sw_em_r_mt_dp_Q6FW5WB6FWMM7G5CGR6S)  
+
 Anbefalt av: @furdy / @nech
 
 
