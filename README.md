@@ -26,7 +26,7 @@ Anbefalt av: nick på discord
 
 📚 : Bøker  
 🔖 : Lenke til artikler eller PDF  
-👎 : Boken anbefales **ikke**  
+👎 : Anbefales **ikke**  
   
   
 - - -
