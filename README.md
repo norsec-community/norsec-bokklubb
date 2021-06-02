@@ -87,6 +87,17 @@ Anbefalt av: @furdy
 
 - - -
 
+## Informasjonssikkerhet
+
+### :books: 👎 The New School of Information Security - Adam Shostack & Andrew Stewart [Amazon](https://www.amazon.com/New-School-Information-Security/dp/0321814908)    
+*Kjøpte denne for noen år siden og har ikke komme til den før nå. Orket ikke å lese hele, den føles veldig utdatert på nåværende tidspunkt. Ideene som boken tar opp, er som oftest standard i dag. Boken anbefales ikke.*    
+
+"Anbefalt" av: @nech   
+
+
+- - - 
+
+
 ## Hardware/Electronics
 
 ### :books: The Hardware Hacker: Adventures in Making and Breaking Hardware - Andrew Bunnie Huang - [Amazon US](https://www.amazon.com/Hardware-Hacker-Adventures-Making-Breaking-dp-1593279787/dp/1593279787)
