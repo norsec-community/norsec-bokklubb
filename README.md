@@ -44,9 +44,15 @@ Anbefalt av: @turbulenzjager
 
 ## Pentesting
 
-### :books: The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws, 2nd Edition - Dafydd Stuttard - [Adlibris](https://www.adlibris.com/no/bok/the-web-application-hackers-handbook-9781118026472) / [Amazon US](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
+#### :books: The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws, 2nd Edition - Dafydd Stuttard - [Adlibris](https://www.adlibris.com/no/bok/the-web-application-hackers-handbook-9781118026472) / [Amazon US](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470)
 
 *Går gjennom punkt for punkt noen av de viktigste elementene av web app hacking, og fungerer fantastisk som både introduksjon og oppslagsverk for fagfeltet.*
+
+Anbefalt av: @GigaByteRex
+
+#### :books: Hacking: The Art of Exploitation, 2nd Edition - Jon Erickson - [Adlibris](https://www.adlibris.com/no/bok/hacking-the-art-of-exploitation-2nd-edition-9781593271442) / [Amazon US](https://www.amazon.com/Hacking-Art-Exploitation-Jon-Erickson/dp/1593271441)
+
+*God bok som introduserer deg for low-level hacking og konseptene man må kunne for å forstå dette, og bygger videre på det med andre nærtliggende konsepter og counter-measures.*
 
 Anbefalt av: @GigaByteRex
 
