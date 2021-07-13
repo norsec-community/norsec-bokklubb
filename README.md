@@ -31,6 +31,17 @@ Anbefalt av: nick på discord
   
 - - -
 
+## Introduksjon til sikkerhetsfaget 
+
+
+#### :books: Digital Sikkerhet: En innføring - Håkon Bergsjø, Ronny Windvik - [Universitetsforlaget](https://www.universitetsforlaget.no/digital-sikkerhet-en-innforing)
+*Tar opp de fleste temaer i faget og er perfekt for studenter/ledere eller andre som ønsker en innføring i hva digital sikkerhet innebærer. Kan leses av alle.*
+
+Anbefalt av: @bravo2day
+
+- - - 
+
+
 ## Security Engineering
 
 #### :books: Security Engineering: A Guide to Building Dependable Distributed Systems - Ross Anderson - [Adlibris](https://www.adlibris.com/no/bok/security-engineering-9781119642787) / [Amazon US](https://www.amazon.com/Security-Engineering-Building-Dependable-Distributed/dp/1119642787/)   
